@@ -1,68 +1,53 @@
-# Invoice Chase & Late-Payment Recovery System
+# Invoice Chase & Late-Payment Recovery System — v3.0
 
-**Stop financing your clients for free.** An 11-language collection kit for freelancers, agencies, consultants, and small businesses who invoice clients: a live invoice tracker, a dated 5-stage escalation ladder, copy-paste message templates in English, Mandarin (Simplified), French, Spanish, Arabic, Russian, German, Japanese, Portuguese, Hindi, and Italian, a late-fee calculator, and a client risk score that sets your terms for the *next* project before the next invoice goes late.
+**$24 one-time. Commercial license. Single-user.**
+No subscription. Microsoft Excel (desktop & web), no macros.
 
-> "You are not a private bank offering interest-free loans."
+## What it is
 
-## What's inside
+A collection kit for freelancers, agencies, and small businesses who invoice clients: a live tracker, a dated 5-stage escalation ladder, 55 copy-paste message templates in 11 languages, a late-fee calculator, and a client risk score that sets your terms for the NEXT project before the next invoice goes late.
 
-Eleven full Excel workbooks (EN · ZH · FR · ES · AR · RU · DE · JA · PT · HI · IT), 7 sheets each:
+## What's inside (v3.0 — 24 files)
 
-| Sheet | What it does |
+| File | Purpose |
 |---|---|
-| Setup | Business name, currency, late-fee rate, your escalation day thresholds |
-| Tracker | Invoice register — auto days-overdue, color-coded status, auto "action needed" per your ladder |
-| Dashboard | Outstanding total, overdue count/amount, aging buckets, recovery rate, top delinquents |
-| Escalation Ladder | 5 dated checklists — what to send, what to log, trigger day, exit condition |
-| Message Templates | 5 stages × 11 languages (55 templates), copy-paste with `[bracket]` placeholders |
-| Late-Fee Calculator | amount × rate × days ÷ 365 — deterministic, with a check-your-local-law note |
-| Client Risk Score | Payment history → 0–100 score (every deduction shown) → terms for the next project |
+| 11 workbooks (`Invoice-Chase-Recovery-System-EN/ZH/FR/ES/AR/RU/DE/JA/PT/HI/IT.xlsx`) | 7 sheets each: Setup, Tracker, Dashboard, Escalation Ladder, Message Templates, Late-Fee Calculator, Client Risk Score |
+| `Message Templates` (in every workbook) | 5 stages × 11 languages = 55 templates, copy-paste with [bracket] placeholders |
+| `QUICK-START-GUIDE.md` | Full guide in English: Setup, Tracker, ladder, templates, calculator, Risk Score, Dashboard, first-30-minutes plan |
+| `WORKED-EXAMPLE.md` | One complete FICTIONAL chase, Day 1 → paid |
+| `FAQ.md` | 13 product-specific questions and answers |
+| `LIMITS-AND-HONEST-NOTES.md` | What the kit does NOT do + verified counts + v3.0 fixes |
+| `WHATS-INSIDE.md` | File-by-file inventory |
+| `README.md` | Packet overview + quick start in 11 languages |
+| `listing.txt` | Full listing text (11 languages) |
+| Covers + previews | Product cover + 4 sheet renders |
 
-The ladder: polite nudge (day 1) → firm reminder (day 7) → late-fee notice (day 14) → stop-work notice (day 30) → collections decision (day 45+). Thresholds are editable in Setup.
+## Free sample + demo video
 
-## Why not another reminder SaaS?
+- **Free sample:** workbook with the 5 English templates + sample tracker. https://github.com/fexo9/invoice-chase-recovery-system/blob/main/FREE-SAMPLE-Invoice-Chase.xlsx
+- **Demo video:** 80-second walkthrough of the real files. https://youtu.be/_6d4vxS3qq4
 
-Reminder tools charge every month or live on someone else's server. This is a system you **own**: one-time payment, no subscription, no login, your data stays on your machine — plus the discipline layer SaaS reminders skip: the late-fee notice, the automatic stop-work rule, and the risk score that changes your terms *before* the next project.
+## What it does NOT do
 
-## Honest notes
+- Does NOT guarantee payment. The kit organizes your follow-through; the client still has to pay.
+- Does NOT send anything. You send every message.
+- Does NOT give legal advice. Check your local law and your signed terms before charging late fees.
+- Does NOT replace your contract. If your agreement has no late-fee clause, the calculator's fee output does not create one.
+- Does NOT predict payment. The Risk Score summarizes past behavior; it is not credit advice.
+- Does NOT help fabricate claims. Never invent an invoice, a due date, or a fee your contract does not support.
 
-- Every formula is error-guarded and tested against hostile inputs (zero amounts, future due dates, text in number cells, clients with no history) — zero error cells.
-- The risk score is a simple, fully visible formula. It describes payment patterns; it does not predict the future and is not credit advice.
-- Message templates are professional wording aids, not legal advice. Late-fee rules differ by country — check your local law and your signed terms before charging fees or pausing work.
-- Requires Microsoft Excel (desktop or web). No macros, no add-ins.
+## Buy
 
-## Get the kit — $24 one-time, Commercial license
+- **Getly:** https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit
+- **SellApp:** https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit
 
-- Getly: `https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
-- SellApp (USDT): `https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
+$24 one-time, Commercial license. Instant download.
 
----
+## Version history
 
-## En français — Système de relance des factures et de recouvrement
-
-Onze classeurs Excel complets (EN · ZH · FR · ES · AR · RU · DE · JA · PT · HI · IT), 7 feuilles chacun : suivi des factures en direct, échelle d'escalade datée en 5 étapes, 55 modèles de messages copier-coller, calculateur de pénalités, score de risque client. 24 $ une seule fois, licence commerciale, sans abonnement, vos données restent chez vous.
-
-**Acheter :** `https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit` · `https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
-
-## En español — Sistema de cobro de facturas
-
-Once libros de Excel completos (EN · ZH · FR · ES · AR · RU · DE · JA · PT · HI · IT), 7 hojas cada uno: seguimiento de facturas en vivo, escalera de cobro fechada en 5 fases, 55 plantillas de mensajes listas para copiar, calculadora de recargos, puntuación de riesgo del cliente. 24 $ pago único, licencia comercial, sin suscripción, sus datos permanecen con usted.
-
-**Comprar:** `https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit` · `https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
-
-## In italiano — Sistema di sollecito fatture e recupero crediti
-
-Undici cartelle di lavoro Excel complete (EN · ZH · FR · ES · AR · RU · DE · JA · PT · HI · IT), 7 fogli ciascuna: registro fatture live, scala di sollecito datata in 5 fasi, 55 modelli di messaggio pronti da copiare, calcolatore di penali, punteggio di rischio del cliente. 24 $ una tantum, licenza commerciale, nessun abbonamento, i tuoi dati restano tuoi.
-
-**Acquista:** `https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit` · `https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
-
-## Auf Deutsch — System für Rechnungsverfolgung und Verzugszinsen
-
-Elf vollständige Excel-Arbeitsmappen (EN · ZH · FR · ES · AR · RU · DE · JA · PT · HI · IT), je 7 Blätter: Live-Rechnungsverfolgung, datierte 5-Stufen-Eskalation, 55 kopierfertige Nachrichtenvorlagen, Verzugszinsen-Rechner, Kunden-Risikowert. 24 $ einmalig, kommerzielle Lizenz, kein Abo, Ihre Daten bleiben bei Ihnen.
-
-**Kaufen:** `https://www.getly.store/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit` · `https://digitaltoolkitstore.sell.app/product/invoice-chase-late-payment-recovery-system-5-language-collection-kit`
-
----
+- v1.0: 5 languages, 25 templates.
+- v2.0: expanded to 11 languages, 55 templates.
+- v3.0 (2026-10-17): + quick-start guide, worked example, FAQ, limits, inventory, free sample, new video, corrected listing copy (11 languages / 55 templates throughout; unverified money-back line removed). Workbooks unchanged. Price unchanged at $24.
 
 ## Contact
 
